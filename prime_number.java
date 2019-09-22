@@ -18,6 +18,7 @@ public class Prime_Numbers
 	}
 }
 
-Output:
+/*Output:
 n=5
 Prime
+*/
