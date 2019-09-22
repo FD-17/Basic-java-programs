@@ -14,6 +14,6 @@ public class Fibanocci
 	}
 }
 
-Output:
+/*Output:
 n=13
-Fibanocci of 13 is 233
+Fibanocci of 13 is 233*/
