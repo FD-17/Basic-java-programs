@@ -9,7 +9,7 @@ public class Prime_Numbers
 	        System.out.print("Prime");
 	        return;
 	    }
-	    for(int i=2;i<=(n*0.5)+1;i++){
+	    for(int i=2;i<=(int)Math.sqrt(n);i++){
 	        if(n%i==0){
 	        System.out.print("Not a Prime");
 	        return;
